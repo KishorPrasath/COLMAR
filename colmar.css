@@ -1,0 +1,55 @@
+.topbar{
+    height: 64px;
+    width: 100%;
+    display: inline-block;
+}
+.col-7 img{
+    width: 60%;
+    height: 400px;
+    margin: 32px 24px 32px 24px;
+}
+.first{
+    background-color: rgb(213, 217, 220);
+}
+.image img{
+   width: 60%;
+   height: 400px;
+   
+}
+.heading{
+    display: inline-block;
+}
+.button{
+    border-radius: 2px solid;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px 50px 8px 50px;
+    width:20rem; 
+}
+
+
+
+.col-7 img{
+    width: 97%;
+    height: 400px;
+    margin: 32px 24px 32px 24px;
+}
+.col-7 h2{
+    margin: 0px 0px 32px 24px;
+}
+.col-7 p{
+    margin-left: 24px;
+}
+.two{
+    margin-bottom: 32px;
+}
+.col-5 img{
+    width: 130px;
+    height: auto;
+    margin-top: 32px;
+}
+.bottombar{
+    border-top: 5px;
+    border-radius: 2px;
+}
